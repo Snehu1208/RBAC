@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+This project is Role based Access Management UI built with React and Material UI. It has three main components: Users, Roles, and Permissions. The User Management section lets you add, edit, and delete users, while assigning roles and statuses (Active/Inactive). The Role Management section allows you to create, edit, and delete roles, as well as define permissions (Read, Write, Delete) for each role using a modal. The Permission Grid displays roles and their permissions in a table format, where permissions can be toggled using checkboxes. Data is stored in the app's state, and mock API services simulate fetching initial data. The folder structure is modular, separating Users, Roles, and Permissions into their respective folders for easy scalability. This simple, intuitive dashboard allows efficient management of users, roles, and access permissions in a streamlined manner.
+
+*UI- Images:-
+![image](https://github.com/user-attachments/assets/efcf9b43-1b53-4111-96b4-93df350f792d)
+![image](https://github.com/user-attachments/assets/0032a21b-c09b-4220-b62e-c8c8a8c6d18d)
